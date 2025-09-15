@@ -82,7 +82,7 @@ Currently listed on my [LinkedIn profile](https://www.linkedin.com/in/advait-awa
 - Generative AI: The Evolution of Thoughtful Online Research  
 - What is Generative AI?  
 - Boost Your Productivity with AI Tools  
-- Google Analytics Kickstart  
+- Google Analytics quick start  
 - Prompt Engineering: How to Talk to AI  
 
 (*New certificates from The Construct — Linux for Robotics, Python 3 for Robotics, and ROS2 Basics — will be added here after completion.*)
