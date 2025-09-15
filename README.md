@@ -98,8 +98,8 @@ Currently listed on my [LinkedIn profile](https://www.linkedin.com/in/advait-awa
 
 These cards automatically pull data from your GitHub account:
 
-![Advait's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitmeshram&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaitmeshram&layout=compact&theme=tokyonight)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=advaitmeshram&show_icons=true&theme=tokyonight)  
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advaitmeshram&layout=compact&theme=tokyonight)
 
 ---
 
