@@ -59,7 +59,7 @@ All projects are organized inside my **[ROS2Sandbox repo](https://github.com/adv
   *Technologies:* ROS2
   [View in repo](https://github.com/advaitmeshram/ROS2-sandbox/tree/main/ros2-basics)
 
-### 🔮 Coming Soon
+### In Progress & Planned
 - Embedded PID controller on STM32 (FreeRTOS)
 - YOLO-based object detection in ROS2
 - Cloud dashboard for robot telemetry
