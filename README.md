@@ -95,8 +95,8 @@ All projects are organized inside my **[ROS2Sandbox repo](https://github.com/adv
 
 ## 📄 CV
 
-📥 **[Download my CV (PDF)](https://advaitmeshram.github.io/cv/Advait_Meshram_CV.pdf)**
-🌐 **[View my CV online](https://advaitmeshram.github.io/cv/)**
+📥 **[Download my CV (PDF)](https://advaitmeshram.github.io/CV/Advait_Meshram_CV.pdf)**
+🌐 **[View my CV online](https://advaitmeshram.github.io/CV/)**
 
 > *To host your CV: create a repo called `cv`, upload your PDF and HTML files, enable GitHub Pages in Settings → Pages → main branch. Your links above will then work automatically.*
 
